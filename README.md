@@ -1,2 +1,2 @@
-# Store-and-Retrieval-Method-for-Large-CCTV-Video-Data
-대용량 CCTV 영상에 대한 저장 및 검색 방법
+# Distributed and Parallel Video Retrieval Method Considering the Spatiotemporal Relationships Between Objects in Large-scale Surveillance Video
+대규모 감시카메라에서 객체 간 시공간 관계를 고려하는 분산 병렬 검색 기술
